@@ -2,107 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://indacosub.github.io/index.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/discord.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/faq.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/about/useful.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/guides/index.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/guides/aitsf/index.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/guides/aitsf/steam.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/guides/v3/index.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/guides/v3/steam.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/guides/v3/switch.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
+    </url>
+    <url>
+         <loc>https://indacosub.github.io/guides/v3/modding/cpk.html</loc>
+         <lastmod>2025-12-18</lastmod>
+    </url>
+    <url>
+         <loc>https://indacosub.github.io/guides/v3/modding/images.html</loc>
+         <lastmod>2025-12-18</lastmod>
+    </url>
+    <url>
+         <loc>https://indacosub.github.io/guides/v3/modding/spc.html</loc>
+         <lastmod>2025-12-18</lastmod>
+    </url>
+    <url>
+         <loc>https://indacosub.github.io/guides/v3/modding/srd.html</loc>
+         <lastmod>2025-12-18</lastmod>
+    </url>
+    <url>
+         <loc>https://indacosub.github.io/guides/v3/modding/stx.html</loc>
+         <lastmod>2025-12-18</lastmod>
+    </url>
+    <url>
+         <loc>https://indacosub.github.io/guides/v3/modding/text.html</loc>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/info/index.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/info/aitsf.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/info/hx.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/info/thirdparty.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/info/thirdpartyprojects.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/info/v3.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/news/daix_direct_2024.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/news/news_ai.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/news/news_hx.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/news/news_v3.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
     <url>
          <loc>https://indacosub.github.io/news/translations.html</loc>
-         <lastmod>2024-12-21</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-12-18</lastmod>
     </url>
 </urlset>
